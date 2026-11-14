@@ -1,0 +1,8 @@
+{
+  "name": "Remix Udyoga Vedika - Verified Public Recruitment \u0026 Exam Portal",
+  "description": "Unified sovereign job tracker, smart eligibility engine, DigiLocker document vault, admit card hub, and AI adaptive mock revision for competitive examinations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
